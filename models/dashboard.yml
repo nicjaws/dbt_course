@@ -11,4 +11,4 @@ exposures:
         - ref('fullmoon_reviews')
       owner:
         name: Nicolas C. Calvo
-        email: nicolascorbalano@gmail.com
+        email: nicolascorbalan@gmail.com
